@@ -7,6 +7,10 @@ Welcome to my latest project! 🚀 This is a **React-based** web application sty
 
 ---
 
+[Live Link](https://nike-fehr.vercel.app/)
+
+---
+
 ## ✨ **Preview**
 
 Get a glimpse of the project in action! Here's what you'll experience:  
@@ -29,7 +33,7 @@ Get a glimpse of the project in action! Here's what you'll experience:
 
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Bloivating-Major/Nike.git
    ```
 2. Navigate to the project folder:  
    ```bash
