@@ -10,6 +10,7 @@ import {
   SuperQuality,
 } from "./sections/index";
 import Nav from "./components/Nav";
+import InstallPWA from "./components/InstallPWA";
 
 const App = () => {
   return (
@@ -39,8 +40,12 @@ const App = () => {
       <section className="padding-x padding-t pb-8 bg-black">
         <Footer />
       </section>
+      
+      {/* Add the install prompt component */}
+      <InstallPWA />
     </main>
   );
 };
 
 export default App;
+
